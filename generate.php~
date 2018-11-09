@@ -1,0 +1,3 @@
+<?php
+require_once('connection.php');
+require_once('libs/fpdf181/fpdf.php');
